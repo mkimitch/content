@@ -1,0 +1,20 @@
+repo_name: mkimitch/content
+report_id: '08be0c4e59449058d6670f9a78895d91'
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-07T17:14:16+00:00'
+requested_by: mkimitch
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mkimitch/content
+  detection_source: Repo Metadata

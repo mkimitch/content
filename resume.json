@@ -1,0 +1,424 @@
+{
+	"awards": [
+		{
+			"awarder": "Company",
+			"date": "2014-11-01",
+			"summary": "There is no spoon.",
+			"title": "Award"
+		}
+	],
+	"basics": {
+		"email": "mark.kimitch@gmail.com",
+		"label": "Senior JavaScript Engineer",
+		"name": "Mark Andrew-Ronald Kimitch",
+		"profiles": [
+			{
+				"network": "𝕏 (Twitter)",
+				"url": "https://twitter.com/mkimitch",
+				"username": "mkimitch"
+			},
+			{
+				"network": "GitHub",
+				"url": "https://github.com/mkimitch",
+				"username": "mkimitch"
+			},
+			{
+				"network": "LinkedIn",
+				"url": "https://www.linkedin.com/in/mkimitch",
+				"username": "mkimitch"
+			}
+		],
+		"summary": "An inventive front-end developer on the path to full-stack expertise, I bring a passion for crafting accessible, reusable, and efficient code. My passion for creating user-centric interfaces is matched by my proficiency in using technologies like React and JavaScript, ensuring each project is both functionally robust and seamlessly navigable. I excel in automating and streamlining development processes, utilizing Bash, Node.js, and Python to enhance productivity. While I am intrigued by the potential of artificial intelligence in software development, my commitment remains steadfast in delivering top-tier, accessible web solutions that prioritize user experience and code maintainability.",
+		"url": "http://"
+	},
+	"certificates": [
+		{
+			"date": "2020-09-01",
+			"issuer": "Deque",
+			"name": "Translating Design Wireframes into Accessible HTML/CSS Workshop",
+			"url": "https://www.deque.com"
+		},
+		{
+			"date": "2020-09-01",
+			"issuer": "Deque",
+			"name": "React and Accessibility Webinar",
+			"url": "https://www.deque.com"
+		},
+		{
+			"date": "2020-10-02",
+			"issuer": "LinkedIn Learning",
+			"name": "Learning ECMAScript 6 (2016)",
+			"url": "https://www.linkedin.com/learning/certificates/da5ca8f2fcf200b1cf7c97b180cc7cc3e25e5427fb52582d9af75a1840b72252?trk=backfilled_certificate"
+		},
+		{
+			"date": "2020-09-01",
+			"issuer": "LinkedIn Learning",
+			"name": "CSS Essential Training (2019)",
+			"url": "https://www.linkedin.com/learning/certificates/e72017a0aaff830c2cd944a1ed56d28306905167357664cdf27c4a8fb4b788e5?trk=backfilled_certificate"
+		},
+		{
+			"date": "2020-09-01",
+			"issuer": "LinkedIn Learning",
+			"name": "HTML Essential Training",
+			"url": "https://www.linkedin.com/learning/certificates/ccb9f1d2ee8fccd450a0953eb492b4891aca510c5fb555676e15d2052c0a30dc?trk=backfilled_certificate"
+		},
+		{
+			"date": "2020-09-02",
+			"issuer": "LinkedIn Learning",
+			"name": "JavaScript Essential Training (2017)",
+			"url": "https://www.linkedin.com/learning/certificates/66ea271502b1fe1664658868330a8ab2b36fd73d1a5bd086ab683dfae1e06872?trk=backfilled_certificate"
+		},
+		{
+			"date": "2019-07-03",
+			"issuer": "LinkedIn Learning",
+			"name": "React.js Essential Training (2018)",
+			"url": "https://www.linkedin.com/learning/certificates/e02af107648c0fb6de1b89198993db450ce7776cafd4156dcff3a1a73ddf9704?trk=backfilled_certificate"
+		},
+		{
+			"date": "2019-06-03",
+			"issuer": "LinkedIn Learning",
+			"name": "Learning React.js (2019)",
+			"url": "https://www.linkedin.com/learning/certificates/a75072d24345bd9b3928b0ecde5ad9a3572ae3aee5c3c6d39dd3bfcc53fbded1?trk=backfilled_certificate"
+		},
+		{
+			"date": "2020-02-07",
+			"issuer": "Udemy",
+			"name": "Modern React with Redux [2020 Update]",
+			"url": "https://www.udemy.com/certificate/UC-7582bca2-35bb-4e0c-b084-eb18693dd281/"
+		}
+	],
+	"education": [
+		{
+			"area": "Information & Communications Technology (ICT)",
+			"courses": [
+				"MALS 4020 - Graduate Research and Writing",
+				"ICT 4000 - ICT Industry Structures and Concepts",
+				"ICT 4005 - ICT Current Technologies and Trends",
+				"ICT 4010 - Enterprise Architecture",
+				"ICT 4300 - Web Enabled Information Systems",
+				"ICT 4505 - Website Design and Management",
+				"ICT 4510 - Advanced Website Design & Management",
+				"ICT 4515 - Usability Design for Websites",
+				"ICT 4561 - Web Development with PHP",
+				"ICT 4570 - Web Scripting with JavaScript",
+				"ICT 4580 - Mobile Application Development with Web Standards",
+				"ICT 4902 - Capstone Seminar"
+			],
+			"endDate": "2013-01-01",
+			"institution": "University of Denver",
+			"score": "",
+			"startDate": "2010-06-01",
+			"studyType": "Master of Applied Sciences",
+			"url": "https://www.du.edu/"
+		},
+		{
+			"area": "Journalism - Professional Strategic Communication Track",
+			"courses": [],
+			"endDate": "2006-06-01",
+			"institution": "University of Minnesota",
+			"score": "",
+			"startDate": "2001-09-01",
+			"studyType": "Bachelor of Arts",
+			"url": "https://twin-cities.umn.edu/"
+		}
+	],
+	"interests": [
+		{
+			"keywords": [
+				"Stargazing",
+				"Night Sky Photography",
+				"Telescope"
+			],
+			"name": "Astrophotography"
+		},
+		{
+			"keywords": [
+				"Short Stories",
+				"Blogging",
+				"Editorial Writing"
+			],
+			"name": "Creative Writing"
+		},
+		{
+			"keywords": [
+				"Open Source Projects",
+				"Web Apps",
+				"Frontend Development"
+			],
+			"name": "Web Development"
+		},
+		{
+			"keywords": [
+				"Team Sports",
+				"Strategy Gaming",
+				"Outdoor Activities"
+			],
+			"name": "Paintball/Woodsball"
+		},
+		{
+			"keywords": [
+				"Circuitry",
+				"Arduino",
+				"Raspberry Pi Projects"
+			],
+			"name": "Electronics"
+		}
+	],
+	"languages": [
+		{
+			"fluency": "Native speaker",
+			"language": "English"
+		}
+	],
+	"meta": {
+		"canonical": "https://yourdomain.com/your-resume.json",
+		"comment": "This resume includes all my latest certifications and projects as of April 2024.",
+		"lastModified": "2024-04-01T08:00:00Z",
+		"schemaVersion": "v1.0.0",
+		"version": "v1.0.0"
+	},
+	"skills": [
+		{
+			"description": "Expert in applying web accessibility standards across various projects to ensure compliance and enhance user experience.",
+			"keywords": [
+				"WCAG",
+				"Section 508",
+				"WAI-ARIA"
+			],
+			"name": "Accessibility"
+		},
+		{
+			"description": "Proficient in Adobe Creative Cloud apps for graphic design and digital content creation.",
+			"keywords": [],
+			"name": "Adobe CC"
+		},
+		{
+			"description": "Experienced in Agile methodologies, facilitating sprint planning, daily scrums, and retrospectives to enhance team productivity.",
+			"keywords": [],
+			"name": "Agile Workflow Processes"
+		},
+		{
+			"description": "Skilled in using various development tools for code quality and accessibility testing.",
+			"keywords": [
+				"ARC Toolkit",
+				"axe Beta",
+				"JAWS",
+				"NVDA"
+			],
+			"name": "Development Tools"
+		},
+		{
+			"description": "Versatile in multiple programming languages for backend and frontend development, scripting, and automation.",
+			"keywords": [
+				"Bash",
+				"JavaScript",
+				"PHP",
+				"Python",
+				"Node",
+				"Typescript"
+			],
+			"name": "Scripting and Programming"
+		},
+		{
+			"description": "Advanced knowledge in CSS preprocessing and post-processing for responsive and efficient style sheets.",
+			"keywords": [
+				"CSS",
+				"LESS",
+				"SASS",
+				"SCSS"
+			],
+			"name": "CSS Technologies"
+		},
+		{
+			"description": "Comprehensive skills in modern web development frameworks and practices for building scalable and responsive applications.",
+			"keywords": [
+				"HTML5",
+				"React",
+				"Redux",
+				"Svelte",
+				"Web Components",
+				"Responsive Web Design"
+			],
+			"name": "Web Development"
+		},
+		{
+			"description": "Experienced in MySQL for database design, querying, and management.",
+			"keywords": [
+				"MySQL"
+			],
+			"name": "Database Management"
+		},
+		{
+			"description": "Proficient in using Git for version control and collaborative project management.",
+			"keywords": [
+				"Git"
+			],
+			"name": "Version Control"
+		},
+		{
+			"description": "Expert in utilizing regular expressions for pattern matching and text manipulation.",
+			"name": "Regular Expressions"
+		}
+	],
+	"work": [
+		{
+			"company": "Montage, Inc.",
+			"endDate": "2007-07-01",
+			"highlights": [
+				"Designed and coded the company website (http://www.montagefs.com) using XHTML, CSS, and ColdFusion."
+			],
+			"position": "Web Developer",
+			"startDate": "2006-10-01",
+			"summary": "Full-time Web Developer position focusing on front-end design and development."
+		},
+		{
+			"company": "Circuit Global Sports Management",
+			"endDate": "2009-11-01",
+			"highlights": [
+				"Built custom CMS to manage the team’s website.",
+				"Managed HTML email execution for marketing and fan engagement."
+			],
+			"position": "Web Developer",
+			"startDate": "2007-08-01",
+			"summary": "Independent contractor role as a Freelance Full Stack Developer."
+		},
+		{
+			"company": "metroConnections",
+			"endDate": "2010-10-01",
+			"highlights": [
+				"Designed and coded between 300 and 400 websites a year alongside two other designers.",
+				"Built templates and registration forms using RegWeb and Certain Software's content management systems."
+			],
+			"position": "Web Designer & Developer",
+			"startDate": "2007-11-01",
+			"summary": "Full-time role as Full Stack Developer & Designer, creating high-volume web properties for event management."
+		},
+		{
+			"company": "Ackmann & Dickenson",
+			"endDate": "2011-06-01",
+			"highlights": [
+				"Assisted in front-end development of Calabrio's workforce optimization suite, Calabrio One.",
+				"Led development for keyhubs.com and improved operations for multiple sites."
+			],
+			"position": "Web Developer",
+			"startDate": "2010-10-01",
+			"summary": "Full-time position specializing in web development and project management."
+		},
+		{
+			"company": "3M",
+			"endDate": "2012-07-01",
+			"highlights": [
+				"Led the front-end development of a complete redesign of 3M's website template system.",
+				"Ensured web properties were cohesive across all modern browsers and scalable for translation into over 60 languages."
+			],
+			"position": "IT Developer II",
+			"startDate": "2011-07-01",
+			"summary": "Contract role focused on significant web development projects and international team collaboration."
+		},
+		{
+			"company": "Ambient",
+			"endDate": "2013-01-31",
+			"highlights": [
+				"Worked on front-end development tasks for various client projects."
+			],
+			"position": "Front End Developer",
+			"startDate": "2012-07-01",
+			"summary": "Contract position emphasizing modern web development technologies and practices."
+		},
+		{
+			"company": "Target",
+			"endDate": "2013-08-01",
+			"highlights": [
+				"Developed advanced store locator functionality using the Bing API.",
+				"Contributed to the overall development of the Target Canada website."
+			],
+			"position": "Front End Developer",
+			"startDate": "2013-02-01",
+			"summary": "Contract role focused on enhancing e-commerce functionality and user experience."
+		},
+		{
+			"company": "UnitedHealth Group",
+			"endDate": "2014-04-01",
+			"highlights": [
+				"Developed JavaScript solutions for healthcare applications.",
+				"Worked remotely, coordinating with a team based in Detroit."
+			],
+			"position": "Front End Developer",
+			"startDate": "2013-09-01",
+			"summary": "Contract position developing and maintaining healthcare applications."
+		},
+		{
+			"company": "Best Buy",
+			"endDate": "2015-05-22",
+			"highlights": [
+				"Primary projects included the development of product carousels, global header/footer, and promo pages.",
+				"Implemented a responsive/adaptive UI for Best Buy's retail platform."
+			],
+			"position": "Front End Developer",
+			"startDate": "2014-05-14",
+			"summary": "Contract role focusing on agile web development and feature enhancement for a major retail website."
+		},
+		{
+			"company": "Gage",
+			"endDate": "2015-10-15",
+			"highlights": [
+				"Engaged in projects for Microsoft, including development and redesign of web applications for their education community and Application Insights products."
+			],
+			"position": "Front End Developer/Freelance Contractor",
+			"startDate": "2015-07-07",
+			"summary": "Independent contract focusing on high-profile client projects, utilizing advanced web technologies."
+		},
+		{
+			"company": "Lifetouch",
+			"endDate": "2016-06-17",
+			"highlights": [
+				"Developed the UI for Lifetouch's MyLifetouch product offering and the MyFamily Rewards program."
+			],
+			"position": "Developer",
+			"startDate": "2016-02-01",
+			"summary": "Independent contract focusing on user interface development and enhancement."
+		},
+		{
+			"company": "SuperValu",
+			"endDate": "2016-08-27",
+			"highlights": [
+				"Developed and maintained customer-facing websites, including cub.com and save-a-lot.com."
+			],
+			"position": "Front End Developer",
+			"startDate": "2016-06-27",
+			"summary": "Contract role developing and managing web solutions for a major grocery retailer."
+		},
+		{
+			"company": "Questar Assessment, Inc.",
+			"endDate": "2020-08-20",
+			"highlights": [
+				"Developed new and improved product features for Questar's Test Delivery System and the Item Rendering Engine.",
+				"Worked as an Accessibility SME, ensuring WCAG 2.0 compliance and collaborating with The Paciello Group."
+			],
+			"position": "Front End Developer",
+			"startDate": "2016-09-20",
+			"summary": "Full-time position overseeing and implementing high-impact educational software projects."
+		},
+		{
+			"company": "BI Worldwide",
+			"endDate": "2021-04-18",
+			"highlights": [
+				"Developed features for an information board application, focusing on accessibility and usability."
+			],
+			"position": "Senior JavaScript Engineer",
+			"startDate": "2020-10-28",
+			"summary": "Contract role leading front-end development for enterprise-level applications."
+		},
+		{
+			"company": "BI Worldwide",
+			"endDate": "",
+			"highlights": [
+				"Built a portable and accessible BINGO game interface using HTML, CSS/SASS, JavaScript, React, and Typescript.",
+				"Continued development and enhancement of features for an information board application."
+			],
+			"position": "Senior JavaScript Engineer",
+			"startDate": "2021-04-19",
+			"summary": "Full-time position focusing on advanced front-end development and project leadership."
+		}
+	]
+}
